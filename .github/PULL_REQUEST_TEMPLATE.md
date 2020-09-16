@@ -5,15 +5,15 @@ To ensure your PR is dealt with swiftly please check the following:
 - [ ] Your submissions are formatted according to the following requirements:
         
 ```
-- [App Name](https://appstorelink/) `Price` - Short description of the widget, less than 250 characters. ([Preview](http://link.to/preview)) `Widget Sizes```
+- **[App Name](https://appstorelink/)** - Short description of the widget, less than 250 characters. ([Preview](http://link.to/preview)) `Price` `Widget Sizes`
 ```
 
 If you're submitting an app with multiple widgets
 
 ```
-- [App Name](https://appstorelink/) `Price`
-  - Short description of the first widget, less than 250 characters. ([Preview](http://link.to/preview)) `Widget Sizes```
-  - Short description of the second widget, less than 250 characters. ([Preview](http://link.to/preview)) `Widget Sizes```
+- **[App Name](https://appstorelink/)** `Price`
+  - **Widget 1 name** - Short description of the first widget, less than 250 characters. ([Preview](http://link.to/preview)) `Widget Sizes```
+  - **Widget 2 name** - Short description of the second widget, less than 250 characters. ([Preview](http://link.to/preview)) `Widget Sizes```
 ```
 
 - [ ] Your additions are ordered alphabetically.

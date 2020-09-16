@@ -9,15 +9,15 @@ project you agree to abide by its terms.
 A sample submission looks something like this:
 
 ```markdown
-- [My Great App](https://apps.apple.com/...) `Free` - A brief description of what the widget does. ([Preview](https://link.to/preview.jpg)) `Small` `Medium`
+- **[My Great App](https://apps.apple.com/...)** - A brief description of what the widget does. ([Preview](https://link.to/preview.jpg)) `Price` `Small` `Medium`
 ```
 
 Or, if you have multiple widget types, you can use a bulleted list to differentiate.
 
 ```markdown
-- [My Great App](https://apps.apple.com/...) `Free`
-  - A brief description of what the first widget does. ([Preview](https://link.to/preview1.jpg)) `Small` `Medium`
-  - Another description of what the second widget does. ([Preview](https://link.to/preview2.jpg)) `Large`
+- **[My Great App](https://apps.apple.com/...)** `Price`
+  - **Widget 1 name** - Short description of the first widget, less than 250 characters. ([Preview](https://link.to/preview1.jpg)) `Small` `Medium`
+  - **Widget 2 name** - Short description of the second widget, less than 250 characters. ([Preview](https://link.to/preview2.jpg)) `Large`
 ```
 
 Ensure your pull request adheres to the following guidelines:
