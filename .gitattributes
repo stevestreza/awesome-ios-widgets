@@ -1,0 +1,6 @@
+* text=auto
+readme.md merge=union
+
+*.png binary
+*.jpg binary
+*.jpeg binary
