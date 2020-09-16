@@ -77,7 +77,7 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Magic Mixes** - Shows your mixes. ([Preview](Screenshots/Soor/widgets.png))
 
 ## News
-- **[Brief: just the news you need](https://apps.apple.com/us/app/brief-just-the-news-you-need/id1475186118) `Free, $4.99/month subscription`
+- **[Brief: just the news you need](https://apps.apple.com/us/app/brief-just-the-news-you-need/id1475186118)** `Free, $4.99/month subscription`
   - **Front Page** - A curated feed of the most important news stories of the day.
   - **Election Snapshot** - Keep track of the current presidential, house, and senate races.
 
@@ -109,7 +109,7 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Forecast** - Gives a detailed look at short-term, hourly, and daily weather. ([Preview](https://twitter.com/CARROT_app/status/1306332591654662146/photo/2))
   - **Hourly/Daily** - Focuses exclusively on hourly and daily forecasts. ([Preview](https://twitter.com/CARROT_app/status/1306332591654662146/photo/2)) `Subscription required`
   - **Weather Maps** - Lets you keep an eye on storms bearing down on your location. ([Preview](https://twitter.com/CARROT_app/status/1306332591654662146/photo/2)) `Subscription required`
-- **[Weather Line]()** - The all-in-one widget dynamically adapts to show you what's most important *right now* – extreme weather, minutely rain graph, AQI, and weather warnings, with 20 themes to choose from. ([Preview](Screenshots/Weather%20Line/widgets.png)) `Free w/ Subscription` `Small` `Medium` `Large`
+- **[Weather Line](https://apps.apple.com/app/apple-store/id715319015)** - The all-in-one widget dynamically adapts to show you what's most important *right now* – extreme weather, minutely rain graph, AQI, and weather warnings, with 20 themes to choose from. ([Preview](Screenshots/Weather%20Line/widgets.png)) `Free w/ Subscription` `Small` `Medium` `Large`
 
 # Contribute
 
