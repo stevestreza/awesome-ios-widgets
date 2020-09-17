@@ -9,8 +9,10 @@ A curated list of home screen widgets for apps on iOS 14!
   - [Included with iOS 14](#included-with-ios-14)
   - [Gaming](#gaming)
     - [Utilities](#gaming-utilities)
+  - [Health](#health)
   - [Music](#music)
   - [News](#news)
+  - [Reference](#reference)
   - [Social Networking](#social-networking)
   - [Sports](#sports)
   - [Travel](#travel)
@@ -67,8 +69,15 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Now Playing** - View the games you've set to Now Playing. ([Preview](https://twitter.com/getgametrack/status/1306336127436161024)) `Small` `Medium` `Large`
   - **Upcoming** - View the upcoming ames from your wish lists. ([Preview](https://twitter.com/getgametrack/status/1306336127436161024)) `Small` `Medium` `Large`
 
-## Music
+## Health
 
+- **[Tangerine: Self-care & Goals](https://apps.apple.com/us/app/tangerine-self-care-goals/id1468882685)** `Free w/ $4.99/mo subscription`
+  - **Indicator** - An elegant and small indicator with your progress for the day. ([Preview](https://twitter.com/TangerineHabit/status/1306303858159869954)) `Small`
+  - **Bars** - See your progress on your top habits for the day. ([Preview](https://twitter.com/TangerineHabit/status/1306303858159869954)) `Small` `Medium`
+  - **Cards** - See your progress on your top habits for the day with a beautiful card visualization. ([Preview](https://twitter.com/TangerineHabit/status/1306303858159869954)) `Large`
+  - **Dashboard** - An elegant dashboard with your progress for the day and your top habits. ([Preview](https://twitter.com/TangerineHabit/status/1306303858159869954)) `Medium`
+
+## Music
 - **[Next: Magic DJs & Playlists](https://apps.apple.com/us/app/id622463230)** `$4.99`
   - **Most Played** - Jump into your favorite Magic DJs and playlists. ([Preview](https://www.instagram.com/p/CFAYMqHJHJv/))
   - **Recently Played** - Jump into your most recent Magic DJs and playlists. ([Preview](https://www.instagram.com/p/CFAYMqHJHJv/))
@@ -78,9 +87,15 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Magic Mixes** - Shows your mixes. ([Preview](Screenshots/Soor/widgets.png))
 
 ## News
+
 - **[Brief: just the news you need](https://apps.apple.com/us/app/brief-just-the-news-you-need/id1475186118)** `Free, $4.99/month subscription`
   - **Front Page** - A curated feed of the most important news stories of the day.
   - **Election Snapshot** - Keep track of the current presidential, house, and senate races.
+
+## Reference
+
+- **[LookUp](https://apps.apple.com/us/app/lookup-english-dictionary/id872564448?ign-mpt=uo%3D4)** `$5.99`
+- **[Book Track](https://apps.apple.com/us/app/book-track-library-manager/id1491660771?ign-mpt=uo%3D4)** `$4.99`
 
 ## Social Networking
 
@@ -92,6 +107,13 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Subreddit Shortcuts** - Quickly jump to your favorite subreddits. ([Preview](https://twitter.com/ChristianSelig/status/1306344121947299840)) `Small` `Medium` `Large`
   - **Showerthoughts** - Cycles through popular posts from the Showerthoughts subreddit. ([Preview](https://twitter.com/ChristianSelig/status/1306344121947299840)) `Small`
   - **Jokes** - Shows jokes from joke-related subreddit to brighten your day. ([Preview](https://twitter.com/ChristianSelig/status/1306344121947299840)) `Medium`
+- **[Aviary](https://apps.apple.com/us/app/id1522043420e)** - View the latest tweets. `$4.99` `Small` `Medium` `Large
+- **[Clatters](https://apps.apple.com/app/clatters/id1480930237)** `Free with $2.99/mo subscription`
+  - **Posts** - View the number of posts. ([Preview](Screenshots/Clatters/widgets.png)) `Small`
+  - **Sentiments** - Get insights into the audience emotions. ([Preview](Screenshots/Clatters/widgets.png)) `Small`
+  - **Languages** - View the languages distribution. ([Preview](Screenshots/Clatters/widgets.png)) `Small` `Medium`
+  - **Stars** - See how your apps are performing. ([Preview](Screenshots/Clatters/widgets.png)) `Small` `Medium`
+
 
 ## Sports
 
@@ -105,6 +127,7 @@ You can include multiple copies of a single widget, at the same or different siz
 
 ## Travel
 
+- **[FlightStatus](https://apps.apple.com/app/flightstatus/id1320687057)** - Displays upcoming flight information. ([Preview](https://twitter.com/FlightStatusApp/status/1306313598763847680)) `$4.99` `Small` `Medium`
 - **[MetroBuddy](https://apps.apple.com/us/app/id1524065433)** - View your current New York MetroCard balance and how many rides are left. ([Preview](Screenshots/MetroBuddy/widget.png)) `Free`  `Small` `Medium` 
     - [Source on GitHub](https://github.com/alexaubry/metrobuddy)
 
@@ -115,6 +138,7 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Forecast** - Gives a detailed look at short-term, hourly, and daily weather. ([Preview](https://twitter.com/CARROT_app/status/1306332591654662146/photo/2))
   - **Hourly/Daily** - Focuses exclusively on hourly and daily forecasts. ([Preview](https://twitter.com/CARROT_app/status/1306332591654662146/photo/2)) `Subscription required`
   - **Weather Maps** - Lets you keep an eye on storms bearing down on your location. ([Preview](https://twitter.com/CARROT_app/status/1306332591654662146/photo/2)) `Subscription required`
+- **[Solar Watch](https://apps.apple.com/app/solar-watch-sunrise-sunset/id1191365122?l=en)** - Track the sunrise and sunset at your favorite locations. ([Preview](https://twitter.com/SolarWatch/status/1306338213720723464)) `Free with $4.99 Upgrade`
 - **[Weather Line](https://apps.apple.com/app/apple-store/id715319015)** - The all-in-one widget dynamically adapts to show you what's most important *right now* – extreme weather, minutely rain graph, AQI, and weather warnings, with 20 themes to choose from. ([Preview](Screenshots/Weather%20Line/widgets.png)) `Free w/ Subscription` `Small` `Medium` `Large`
 
 # Contribute
