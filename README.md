@@ -7,10 +7,13 @@ A curated list of home screen widgets for apps on iOS 14!
 - [How to use Widgets](#how-to-use-widgets)
 - [Apps](#apps)
   - [Included with iOS 14](#included-with-ios-14)
+  - [Finance](#finance)
   - [Gaming](#gaming)
     - [Utilities](#gaming-utilities)
   - [Health](#health)
-  - [Music](#music)
+  - [Media](#media)
+    - [Music](#music)
+    - [Photos](#photos)
   - [News](#news)
   - [Reference](#reference)
   - [Social Networking](#social-networking)
@@ -61,6 +64,13 @@ You can include multiple copies of a single widget, at the same or different siz
 - **Tips** - Get the most from your Apple devices with helpful hints and hidden gems. `Free` `Small` `Medium` `Large`
 - **Weather** - See the current weather conditions and forecast for a location. `Free` `Small` `Medium` `Large`
 
+## Finance
+
+- **[Spend Stack: Budget Tracker](https://apps.apple.com/app/spend-stack-smarter-lists/id1329068268)** `$2.99`
+  - **Recurring Costs** - See what subscriptions are costing you this month, or what's due next. ([Preview](https://twitter.com/SpendStackApp/status/1306577430652616704)) `Small`
+  - **Tag Insights** - See how much of your money goes to food, date nights or splurge spending. ([Preview](https://twitter.com/SpendStackApp/status/1306577430652616704)) `Small` `Medium` `Large`
+  - **List Insights** - View your budget from top to bottom. ([Preview](https://twitter.com/SpendStackApp/status/1306577430652616704)) `Small` `Medium` `Large`
+
 ## Gaming
 
 ### Gaming Utilities
@@ -77,7 +87,9 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Cards** - See your progress on your top habits for the day with a beautiful card visualization. ([Preview](https://twitter.com/TangerineHabit/status/1306303858159869954)) `Large`
   - **Dashboard** - An elegant dashboard with your progress for the day and your top habits. ([Preview](https://twitter.com/TangerineHabit/status/1306303858159869954)) `Medium`
 
-## Music
+## Media
+
+### Music
 - **[Next: Magic DJs & Playlists](https://apps.apple.com/us/app/id622463230)** `$4.99`
   - **Most Played** - Jump into your favorite Magic DJs and playlists. ([Preview](https://www.instagram.com/p/CFAYMqHJHJv/))
   - **Recently Played** - Jump into your most recent Magic DJs and playlists. ([Preview](https://www.instagram.com/p/CFAYMqHJHJv/))
@@ -85,6 +97,10 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Now Playing** - Shows the current song and what's up next. ([Preview](Screenshots/Soor/widgets.png)) `Small` `Medium` `Large`
   - **Music Collection** - Shows different types of content.  ([Preview](Screenshots/Soor/widgets.png))
   - **Magic Mixes** - Shows your mixes. ([Preview](Screenshots/Soor/widgets.png))
+
+### Photos
+
+- **[Birch - Organized Photo Notes](https://apps.apple.com/us/app/birch-organized-photo-notes/id1435221449)** - Pin select photos & photo notes, right on your home screen. ([Preview](https://twitter.com/TheBirchApp/status/1306653054415114242)) `Free with $1.49/month subscription`
 
 ## News
 
@@ -128,8 +144,12 @@ You can include multiple copies of a single widget, at the same or different siz
 ## Travel
 
 - **[FlightStatus](https://apps.apple.com/app/flightstatus/id1320687057)** - Displays upcoming flight information. ([Preview](https://twitter.com/FlightStatusApp/status/1306313598763847680)) `$4.99` `Small` `Medium`
-- **[MetroBuddy](https://apps.apple.com/us/app/id1524065433)** - View your current New York MetroCard balance and how many rides are left. ([Preview](Screenshots/MetroBuddy/widget.png)) `Free`  `Small` `Medium` 
-    - [Source on GitHub](https://github.com/alexaubry/metrobuddy)
+- **[MetroBuddy](https://apps.apple.com/us/app/id1524065433)** - View your current New York MetroCard balance and how many rides are left. ([Preview](Screenshots/MetroBuddy/widget.png)) ([Source on GitHub](https://github.com/alexaubry/metrobuddy)) `Free`  `Small` `Medium` 
+- **[TechnoConf](https://apps.apple.com/us/app/technoconf/id1530632696)** - Show tech conference events on your home screen. `Free`
+
+## Utilities
+
+- **[DataMan - track data usage](https://apps.apple.com/us/app/dataman/id592962356)** - See your data usage forecast. ([Preview](https://twitter.com/XVisionNow/status/1306445911262928901)) `$0.99 with $0.99 subscription`
 
 ## Weather
 
