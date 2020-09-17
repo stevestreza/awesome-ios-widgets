@@ -13,6 +13,7 @@ A curated list of home screen widgets for apps on iOS 14!
   - [News](#news)
   - [Social Networking](#social-networking)
   - [Sports](#sports)
+  - [Travel](#travel)
   - [Weather](#weather)
 
 ## How to use Widgets
@@ -101,6 +102,11 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Team Splits** - Standings for a given team, split by hoem/away and division. ([Preview](https://twitter.com/PennantApp/status/1306332494434893825))
   - **Game Margin** - Shows how a team is performing over time. ([Preview](https://twitter.com/PennantApp/status/1306332800967225345))
   - **Last Ten Games** - Results of the last ten games. ([Preview](https://twitter.com/PennantApp/status/1306332800967225345))
+
+## Travel
+
+- **[MetroBuddy](https://apps.apple.com/us/app/id1524065433)** - View your current New York MetroCard balance and how many rides are left. ([Preview](Screenshots/MetroBuddy/widget.png)) `Free`  `Small` `Medium` 
+    - [Source on GitHub](https://github.com/alexaubry/metrobuddy)
 
 ## Weather
 
