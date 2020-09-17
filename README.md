@@ -81,6 +81,7 @@ You can include multiple copies of a single widget, at the same or different siz
 
 ## Health
 
+- **[Pocket Yoga](https://apps.apple.com/us/app/pocket-yoga/id347400507?mt=8)** - See a yoga pose of the day. ([Preview](https://twitter.com/pocketyogaapp/status/1306397873634902016)) `$2.99` `Medium`
 - **[Tangerine: Self-care & Goals](https://apps.apple.com/us/app/tangerine-self-care-goals/id1468882685)** `Free w/ $4.99/mo subscription`
   - **Indicator** - An elegant and small indicator with your progress for the day. ([Preview](https://twitter.com/TangerineHabit/status/1306303858159869954)) `Small`
   - **Bars** - See your progress on your top habits for the day. ([Preview](https://twitter.com/TangerineHabit/status/1306303858159869954)) `Small` `Medium`
