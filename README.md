@@ -105,7 +105,7 @@ You can include multiple copies of a single widget, at the same or different siz
 
 ## Travel
 
-- **[MetroBuddy](https://apps.apple.com/us/app/id1524065433)** `Free and [open source](https://github.com/alexaubry/metrobuddy)`
+- **[MetroBuddy](https://apps.apple.com/us/app/id1524065433)** `Free` [open source](https://github.com/alexaubry/metrobuddy)`
   - **MetroCard Balance** - View your current New York MetroCard balance and how many rides are left. ([Preview](Screenshots/MetroBuddy/widget.png)) `Small` `Medium`
 
 ## Weather
