@@ -79,8 +79,12 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Now Playing** - View the games you've set to Now Playing. ([Preview](https://twitter.com/getgametrack/status/1306336127436161024)) `Small` `Medium` `Large`
   - **Upcoming** - View the upcoming ames from your wish lists. ([Preview](https://twitter.com/getgametrack/status/1306336127436161024)) `Small` `Medium` `Large`
 
-## Health
+## Health and Fitness
 
+- **[Bolt Workout Tracker](https://apps.apple.com/us/app/bolt-workout-tracker-gym-log/id1439649927)** `Free, $1.99/month subscription`
+  - **Achievement** - Get a quick glance of the number of days you worked out in the past week. ([Preview](https://twitter.com/workoutwithbolt/status/1306059178662703105/photo/1)) `Medium`
+  - **Total Volume** - View total volume lifted compared against 7-day or 30-day time periods. ([Preview](https://twitter.com/workoutwithbolt/status/1306059178662703105/photo/1)) `Small`
+  - **Daily Workouts** - See your daily workouts to get started with just a tap. ([Preview](https://twitter.com/workoutwithbolt/status/1306059178662703105/photo/1)) `Medium` `Large`
 - **[Health Auto Export to CSV](https://apps.apple.com/se/app/healthstats-export-to-csv/id1115567069)** `$1.99`
   - **Activity** - Near real-time Activity progress, Total Energy Burn, Step Count and Heart Rate. ([Preview](Screenshots/Health Export/widgets.png)) `Small`
   - **Statistics** - Customize with any of over 80 Apple Health metrics; select up to 6 on the largest widget. ([Preview](Screenshots/Health Export/widgets.png)) `Small` `Medium` `Large`
