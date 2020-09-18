@@ -10,7 +10,7 @@ A curated list of home screen widgets for apps on iOS 14!
   - [Finance](#finance)
   - [Gaming](#gaming)
     - [Utilities](#gaming-utilities)
-  - [Health](#health)
+  - [Health and Fitness](#health-and-fitness)
   - [Media](#media)
     - [Music](#music)
     - [Photos](#photos)
