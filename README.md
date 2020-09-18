@@ -79,7 +79,7 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Now Playing** - View the games you've set to Now Playing. ([Preview](https://twitter.com/getgametrack/status/1306336127436161024)) `Small` `Medium` `Large`
   - **Upcoming** - View the upcoming ames from your wish lists. ([Preview](https://twitter.com/getgametrack/status/1306336127436161024)) `Small` `Medium` `Large`
 
-## Health
+## Health and Fitness
 
 - **[Bolt Workout Tracker](https://apps.apple.com/us/app/bolt-workout-tracker-gym-log/id1439649927)** `Free, $1.99/month subscription`
   - **Achievement** - Get a quick glance of the number of days you worked out in the past week. ([Preview](https://twitter.com/workoutwithbolt/status/1306059178662703105/photo/1)) `Medium`
