@@ -134,8 +134,8 @@ You can include multiple copies of a single widget, at the same or different siz
 
 ## Reference
 
-- **[LookUp](https://apps.apple.com/us/app/lookup-english-dictionary/id872564448?ign-mpt=uo%3D4)** `$5.99`
 - **[Book Track](https://apps.apple.com/us/app/book-track-library-manager/id1491660771?ign-mpt=uo%3D4)** `$4.99`
+- **[LookUp](https://apps.apple.com/us/app/lookup-english-dictionary/id872564448?ign-mpt=uo%3D4)** `$5.99`
 
 ## Social Networking
 
