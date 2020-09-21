@@ -131,11 +131,23 @@ You can include multiple copies of a single widget, at the same or different siz
 - **[Brief: just the news you need](https://apps.apple.com/us/app/brief-just-the-news-you-need/id1475186118)** `Free, $4.99/month subscription`
   - **Front Page** - A curated feed of the most important news stories of the day.
   - **Election Snapshot** - Keep track of the current presidential, house, and senate races.
+- **[NBC News](https://apps.apple.com/us/app/nbc-news-breaking-us-news/id319740707)** `Free`
+  - **Latest News** - Get the latest news from your favorite topics `Small` `Medium` `Large`
+  - **COVID-19 Trends** - See latest COVID-19 trends by country or U.S. state `Small` `Medium` `Large`
+  - **Week In Pictures** - Photo journalism gallery. `Medium` `Large`
 
 ## Reference
 
 - **[Book Track](https://apps.apple.com/us/app/book-track-library-manager/id1491660771?ign-mpt=uo%3D4)** `$4.99`
 - **[LookUp](https://apps.apple.com/us/app/lookup-english-dictionary/id872564448?ign-mpt=uo%3D4)** `$5.99`
+- **[Star Walk 2](https://apps.apple.com/us/app/star-walk-2-night-sky-map/id892279069)** `$2.99 with paid upgrades`
+  - **What's New** - Keep abreast of the latest stargazing news `Small`
+  - **Time to Stargaze** - Check the stargazing conditions for tonight. `Small`
+  - **What's up Tonight** - Check out what to see in the sky above you. `Medium`
+- **[Wikipedia](https://apps.apple.com/us/app/wikipedia/id324715238)** `Free`
+  - **Picture of the Day** - Enjoy a beautiful daily photo selected by our community. `Small` `Medium` `Large`
+  - **On this day** - Explore what happened on this day in history. `Small` `Medium` `Large`
+  - **Top read** - Learn what the world is reading today on Wikipedia. `Small` `Medium` `Large`
 
 ## Social Networking
 
@@ -173,7 +185,12 @@ You can include multiple copies of a single widget, at the same or different siz
 
 ## Utilities
 
+- **[Agenda](https://apps.apple.com/us/app/agenda/id1370289240)** - Agenda notes that are relevant right now. ([Preview](https://twitter.com/agenda/status/1306381353127227392)) `Free with $14.99 upgrade` `Small` `Medium` `Large`
 - **[DataMan - track data usage](https://apps.apple.com/us/app/dataman/id592962356)** - See your data usage forecast. ([Preview](https://twitter.com/XVisionNow/status/1306445911262928901)) `$0.99 with $0.99 subscription`
+- **[Drafts]()** `Free with $1.99/month subscription`
+  - **Drafts Widget** - Configurable access to commands, workspaces, and actions. ([Preview](https://twitter.com/draftsapp/status/1306328579274346497)) `Small` `Medium` `Large`
+  - **Drafts List Widget** - List drafts from the configured workspace. ([Preview](https://twitter.com/draftsapp/status/1306328579274346497)) `Medium` `Large`
+- **[DuckDuckGo](https://apps.apple.com/us/app/duckduckgo-privacy-browser/id663592361)** - Search or visit your favorite sites privately with just one tap. `Free` `Small` `Medium` `Large`
 
 ## Weather
 
