@@ -131,7 +131,7 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Subreddit Shortcuts** - Quickly jump to your favorite subreddits. ([Preview](https://twitter.com/ChristianSelig/status/1306344121947299840)) `Small` `Medium` `Large`
   - **Showerthoughts** - Cycles through popular posts from the Showerthoughts subreddit. ([Preview](https://twitter.com/ChristianSelig/status/1306344121947299840)) `Small`
   - **Jokes** - Shows jokes from joke-related subreddit to brighten your day. ([Preview](https://twitter.com/ChristianSelig/status/1306344121947299840)) `Medium`
-- **[Aviary](https://apps.apple.com/us/app/id1522043420e)** - View the latest tweets. `$4.99` `Small` `Medium` `Large
+- **[Aviary](https://apps.apple.com/us/app/id1522043420)** - View the latest tweets. `$4.99` `Small` `Medium` `Large
 - **[Clatters](https://apps.apple.com/app/clatters/id1480930237)** `Free with $2.99/mo subscription`
   - **Posts** - View the number of posts. ([Preview](Screenshots/Clatters/widgets.png)) `Small`
   - **Sentiments** - Get insights into the audience emotions. ([Preview](Screenshots/Clatters/widgets.png)) `Small`
