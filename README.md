@@ -7,6 +7,7 @@ A curated list of home screen widgets for apps on iOS 14!
 - [How to use Widgets](#how-to-use-widgets)
 - [Apps](#apps)
   - [Included with iOS 14](#included-with-ios-14)
+  - [Custom Widgets](#custom-widgets)
   - [Finance](#finance)
   - [Gaming](#gaming)
     - [Utilities](#gaming-utilities)
@@ -63,6 +64,13 @@ You can include multiple copies of a single widget, at the same or different siz
 - **TV** - Keep watching where you left off or see what's on next. `Free` `Small` `Medium` `Large`
 - **Tips** - Get the most from your Apple devices with helpful hints and hidden gems. `Free` `Small` `Medium` `Large`
 - **Weather** - See the current weather conditions and forecast for a location. `Free` `Small` `Medium` `Large`
+
+## Custom Widgets
+
+- **[Glimpse](https://apps.apple.com/us/app/glimpse-2/id1524217845)** - Create widgets that show updating images of web pages. ([Preview](Screenshots/Glimpse/widgets.png)) `Free with Tip` `Small` `Medium` `Large`
+- **[Widgeridoo](https://apps.apple.com/us/app/widgeridoo/id1531359008)** - Make widgets out of calendar events, birthdays, text and images, dates and countdowns, JSON data from websites, health, and more. ([Preview](Screenshots/Widgeridoo/widgets.png)) `Free, $3.99 pro upgrade` `Small` `Medium` `Large`
+- **[Widgetsmith](https://apps.apple.com/us/app/widgetsmith/id1523682319)** - Connect various data sources like calendar, weather, health, and more to customizable widgets. ([Preview](https://twitter.com/_DavidSmith/status/1306358410493992961)) `Free, $1.99/month subscription` `Small` `Medium` `Large`
+- **[Widget Wizard](https://apps.apple.com/us/app/widget-wizard/id1524227906)** - Simple, elegant and highly customization widgets that connect to your agenda, health stats, countdowns, calendar, reminders, and clocks. ([Preview](Screenshots/Widget_Wizard/widgets.png)) `$1.99 with Tip` `Small` `Medium` `Large`
 
 ## Finance
 
