@@ -7,6 +7,7 @@ A curated list of home screen widgets for apps on iOS 14!
 - [How to use Widgets](#how-to-use-widgets)
 - [Apps](#apps)
   - [Included with iOS 14](#included-with-ios-14)
+  - [Custom Widgets](#custom-widgets)
   - [Finance](#finance)
   - [Gaming](#gaming)
     - [Utilities](#gaming-utilities)
@@ -64,6 +65,13 @@ You can include multiple copies of a single widget, at the same or different siz
 - **Tips** - Get the most from your Apple devices with helpful hints and hidden gems. `Free` `Small` `Medium` `Large`
 - **Weather** - See the current weather conditions and forecast for a location. `Free` `Small` `Medium` `Large`
 
+## Custom Widgets
+
+- **[Glimpse](https://apps.apple.com/us/app/glimpse-2/id1524217845)** - Create widgets that show updating images of web pages. ([Preview](Screenshots/Glimpse/widgets.png)) `Free with Tip` `Small` `Medium` `Large`
+- **[Widgeridoo](https://apps.apple.com/us/app/widgeridoo/id1531359008)** - Make widgets out of calendar events, birthdays, text and images, dates and countdowns, JSON data from websites, health, and more. ([Preview](Screenshots/Widgeridoo/widgets.png)) `Free, $3.99 pro upgrade` `Small` `Medium` `Large`
+- **[Widgetsmith](https://apps.apple.com/us/app/widgetsmith/id1523682319)** - Connect various data sources like calendar, weather, health, and more to customizable widgets. ([Preview](https://twitter.com/_DavidSmith/status/1306358410493992961)) `Free, $1.99/month subscription` `Small` `Medium` `Large`
+- **[Widget Wizard](https://apps.apple.com/us/app/widget-wizard/id1524227906)** - Simple, elegant and highly customization widgets that connect to your agenda, health stats, countdowns, calendar, reminders, and clocks. ([Preview](Screenshots/Widget_Wizard/widgets.png)) `$1.99 with Tip` `Small` `Medium` `Large`
+
 ## Finance
 
 - **[Spend Stack: Budget Tracker](https://apps.apple.com/app/spend-stack-smarter-lists/id1329068268)** `$2.99`
@@ -82,6 +90,7 @@ You can include multiple copies of a single widget, at the same or different siz
 ## Health and Fitness
 
 - **[Bolt Workout Tracker](https://apps.apple.com/us/app/bolt-workout-tracker-gym-log/id1439649927)** `Free, $1.99/month subscription`
+
   - **Achievement** - Get a quick glance of the number of days you worked out in the past week. ([Preview](https://twitter.com/workoutwithbolt/status/1306059178662703105/photo/1)) `Medium`
   - **Total Volume** - View total volume lifted compared against 7-day or 30-day time periods. ([Preview](https://twitter.com/workoutwithbolt/status/1306059178662703105/photo/1)) `Small`
   - **Daily Workouts** - See your daily workouts to get started with just a tap. ([Preview](https://twitter.com/workoutwithbolt/status/1306059178662703105/photo/1)) `Medium` `Large`
@@ -92,6 +101,15 @@ You can include multiple copies of a single widget, at the same or different siz
 - **[Milestone Fitness](https://apps.apple.com/us/app/milestone-fitness/id1327446581)** `$1.99`
   - **Goal Progress** - See your current progress towards a goal in a given category and gives you a ribbon once you've made it. ([Preview](Screenshots/Milestone%20Fitness/widgets.png)) `Small`
   - **Progress with Record** - See your current value alongside your all-time record. ([Preview](Screenshots/Milestone%20Fitness/widgets.png)) `Small`
+  - **Activity** - Near real-time Activity progress, Total Energy Burn, Step Count and Heart Rate. ([Preview](Screenshots/Health_Export/widgets.png)) `Small`
+  - **Recent** - Configurable widget that shows your readings for cumulative metrics or most recent reading for sample metrics. ([Preview](Screenshots/Health_Export/widgets.png)) `Small`
+  - **Statistics** - Customize with any of over 80 Apple Health metrics; select up to 6 on the largest widget. ([Preview](Screenshots/Health_Export/widgets.png)) `Small` `Medium` `Large`
+  - **Activity** - Near real-time Activity progress, Total Energy Burn, Step Count and Heart Rate. ([Preview](Screenshots/Health_Export/widgets.png)) `Small`
+  - **Statistics** - Customize with any of over 80 Apple Health metrics; select up to 6 on the largest widget. ([Preview](Screenshots/Health_Export/widgets.png)) `Small` `Medium` `Large`
+- **[LatherApp Hand Wash Timer](https://apps.apple.com/us/app/latherapp-hand-wash-timer/id1509810285)** - View today's wash count and your last wash time, plus start your timer with one tap. ([Preview](Screenshots/LatherApp_Hand_Wash_Timer/widgets.png)) `Free` `Small`
+- **[Milestone Fitness](https://apps.apple.com/us/app/milestone-fitness/id1327446581)** `$1.99`
+  - **Goal Progress** - See your current progress towards a goal in a given category and gives you a ribbon once you've made it. ([Preview](Screenshots/Milestone_Fitness/widgets.png)) `Small`
+  - **Progress with Record** - See your current value alongside your all-time record. ([Preview](Screenshots/Milestone_Fitness/widgets.png)) `Small`
 - **[Pocket Yoga](https://apps.apple.com/us/app/pocket-yoga/id347400507?mt=8)** - See a yoga pose of the day. ([Preview](https://twitter.com/pocketyogaapp/status/1306397873634902016)) `$2.99` `Medium`
 - **[Tangerine: Self-care & Goals](https://apps.apple.com/us/app/tangerine-self-care-goals/id1468882685)** `Free w/ $4.99/mo subscription`
   - **Indicator** - An elegant and small indicator with your progress for the day. ([Preview](https://twitter.com/TangerineHabit/status/1306303858159869954)) `Small`
@@ -119,11 +137,23 @@ You can include multiple copies of a single widget, at the same or different siz
 - **[Brief: just the news you need](https://apps.apple.com/us/app/brief-just-the-news-you-need/id1475186118)** `Free, $4.99/month subscription`
   - **Front Page** - A curated feed of the most important news stories of the day.
   - **Election Snapshot** - Keep track of the current presidential, house, and senate races.
+- **[NBC News](https://apps.apple.com/us/app/nbc-news-breaking-us-news/id319740707)** `Free`
+  - **Latest News** - Get the latest news from your favorite topics `Small` `Medium` `Large`
+  - **COVID-19 Trends** - See latest COVID-19 trends by country or U.S. state `Small` `Medium` `Large`
+  - **Week In Pictures** - Photo journalism gallery. `Medium` `Large`
 
 ## Reference
 
-- **[LookUp](https://apps.apple.com/us/app/lookup-english-dictionary/id872564448?ign-mpt=uo%3D4)** `$5.99`
 - **[Book Track](https://apps.apple.com/us/app/book-track-library-manager/id1491660771?ign-mpt=uo%3D4)** `$4.99`
+- **[LookUp](https://apps.apple.com/us/app/lookup-english-dictionary/id872564448?ign-mpt=uo%3D4)** `$5.99`
+- **[Star Walk 2](https://apps.apple.com/us/app/star-walk-2-night-sky-map/id892279069)** `$2.99 with paid upgrades`
+  - **What's New** - Keep abreast of the latest stargazing news `Small`
+  - **Time to Stargaze** - Check the stargazing conditions for tonight. `Small`
+  - **What's up Tonight** - Check out what to see in the sky above you. `Medium`
+- **[Wikipedia](https://apps.apple.com/us/app/wikipedia/id324715238)** `Free`
+  - **Picture of the Day** - Enjoy a beautiful daily photo selected by our community. `Small` `Medium` `Large`
+  - **On this day** - Explore what happened on this day in history. `Small` `Medium` `Large`
+  - **Top read** - Learn what the world is reading today on Wikipedia. `Small` `Medium` `Large`
 
 ## Social Networking
 
@@ -135,7 +165,7 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Subreddit Shortcuts** - Quickly jump to your favorite subreddits. ([Preview](https://twitter.com/ChristianSelig/status/1306344121947299840)) `Small` `Medium` `Large`
   - **Showerthoughts** - Cycles through popular posts from the Showerthoughts subreddit. ([Preview](https://twitter.com/ChristianSelig/status/1306344121947299840)) `Small`
   - **Jokes** - Shows jokes from joke-related subreddit to brighten your day. ([Preview](https://twitter.com/ChristianSelig/status/1306344121947299840)) `Medium`
-- **[Aviary](https://apps.apple.com/us/app/id1522043420e)** - View the latest tweets. `$4.99` `Small` `Medium` `Large
+- **[Aviary](https://apps.apple.com/us/app/id1522043420)** - View the latest tweets. `$4.99` `Small` `Medium` `Large
 - **[Clatters](https://apps.apple.com/app/clatters/id1480930237)** `Free with $2.99/mo subscription`
   - **Posts** - View the number of posts. ([Preview](Screenshots/Clatters/widgets.png)) `Small`
   - **Sentiments** - Get insights into the audience emotions. ([Preview](Screenshots/Clatters/widgets.png)) `Small`
@@ -161,7 +191,12 @@ You can include multiple copies of a single widget, at the same or different siz
 
 ## Utilities
 
+- **[Agenda](https://apps.apple.com/us/app/agenda/id1370289240)** - Agenda notes that are relevant right now. ([Preview](https://twitter.com/agenda/status/1306381353127227392)) `Free with $14.99 upgrade` `Small` `Medium` `Large`
 - **[DataMan - track data usage](https://apps.apple.com/us/app/dataman/id592962356)** - See your data usage forecast. ([Preview](https://twitter.com/XVisionNow/status/1306445911262928901)) `$0.99 with $0.99 subscription`
+- **[Drafts]()** `Free with $1.99/month subscription`
+  - **Drafts Widget** - Configurable access to commands, workspaces, and actions. ([Preview](https://twitter.com/draftsapp/status/1306328579274346497)) `Small` `Medium` `Large`
+  - **Drafts List Widget** - List drafts from the configured workspace. ([Preview](https://twitter.com/draftsapp/status/1306328579274346497)) `Medium` `Large`
+- **[DuckDuckGo](https://apps.apple.com/us/app/duckduckgo-privacy-browser/id663592361)** - Search or visit your favorite sites privately with just one tap. `Free` `Small` `Medium` `Large`
 
 ## Weather
 
@@ -171,7 +206,7 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Hourly/Daily** - Focuses exclusively on hourly and daily forecasts. ([Preview](https://twitter.com/CARROT_app/status/1306332591654662146/photo/2)) `Subscription required`
   - **Weather Maps** - Lets you keep an eye on storms bearing down on your location. ([Preview](https://twitter.com/CARROT_app/status/1306332591654662146/photo/2)) `Subscription required`
 - **[Solar Watch](https://apps.apple.com/app/solar-watch-sunrise-sunset/id1191365122?l=en)** - Track the sunrise and sunset at your favorite locations. ([Preview](https://twitter.com/SolarWatch/status/1306338213720723464)) `Free with $4.99 Upgrade`
-- **[Weather Line](https://apps.apple.com/app/apple-store/id715319015)** - The all-in-one widget dynamically adapts to show you what's most important *right now* – extreme weather, minutely rain graph, AQI, and weather warnings, with 20 themes to choose from. ([Preview](Screenshots/Weather%20Line/widgets.png)) `Free w/ Subscription` `Small` `Medium` `Large`
+- **[Weather Line](https://apps.apple.com/app/apple-store/id715319015)** - The all-in-one widget dynamically adapts to show you what's most important *right now* – extreme weather, minutely rain graph, AQI, and weather warnings, with 20 themes to choose from. ([Preview](Screenshots/Weather_Line/widgets.png)) `Free w/ Subscription` `Small` `Medium` `Large`
 
 # Contribute
 
