@@ -100,9 +100,10 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Statistics** - Customize with any of over 80 Apple Health metrics; select up to 6 on the largest widget. ([Preview](Screenshots/Health_Export/widgets.png)) `Small` `Medium` `Large`
   - **Activity** - Near real-time Activity progress, Total Energy Burn, Step Count and Heart Rate. ([Preview](Screenshots/Health_Export/widgets.png)) `Small`
   - **Statistics** - Customize with any of over 80 Apple Health metrics; select up to 6 on the largest widget. ([Preview](Screenshots/Health_Export/widgets.png)) `Small` `Medium` `Large`
-- **[LatherApp Hand Wash Timer](https://apps.apple.com/us/app/latherapp-hand-wash-timer/id1509810285)** - View today's wash count and your last wash time, plus start your timer with one tap. ([Preview](Screenshots/LatherApp_Hand_Wash_Timer/widgets.png)) `Free` `Small`
+- **[LatherApp Hand Wash Timer](https://apps.apple.com/us/app/latherapp-hand-wash-timer/id1509810285)** - View today's wash count and your last wash time, plus start your timer with one tap. ([Preview](Screenshots/LatherApp_Hand_Wash_Timer/widget.png)) `Free` `Small`
 - **[Milestone Fitness](https://apps.apple.com/us/app/milestone-fitness/id1327446581)** `$1.99`
   - **Goal Progress** - See your current progress towards a goal in a given category and gives you a ribbon once you've made it. ([Preview](Screenshots/Milestone_Fitness/widgets.png)) `Small`
+  - **Triple Category** - View three categories at a glance. ([Preview](Screenshots/Milestone_Fitness/widgets.png)) `Small`
   - **Progress with Record** - See your current value alongside your all-time record. ([Preview](Screenshots/Milestone_Fitness/widgets.png)) `Small`
 - **[Pocket Yoga](https://apps.apple.com/us/app/pocket-yoga/id347400507?mt=8)** - See a yoga pose of the day. ([Preview](https://twitter.com/pocketyogaapp/status/1306397873634902016)) `$2.99` `Medium`
 - **[Tangerine: Self-care & Goals](https://apps.apple.com/us/app/tangerine-self-care-goals/id1468882685)** `Free w/ $4.99/mo subscription`
