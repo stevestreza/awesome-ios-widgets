@@ -95,20 +95,15 @@ You can include multiple copies of a single widget, at the same or different siz
   - **Total Volume** - View total volume lifted compared against 7-day or 30-day time periods. ([Preview](https://twitter.com/workoutwithbolt/status/1306059178662703105/photo/1)) `Small`
   - **Daily Workouts** - See your daily workouts to get started with just a tap. ([Preview](https://twitter.com/workoutwithbolt/status/1306059178662703105/photo/1)) `Medium` `Large`
 - **[Health Auto Export to CSV](https://apps.apple.com/se/app/healthstats-export-to-csv/id1115567069)** `$1.99`
-  - **Activity** - Near real-time Activity progress, Total Energy Burn, Step Count and Heart Rate. ([Preview](Screenshots/Health Export/widgets.png)) `Small`
-  - **Statistics** - Customize with any of over 80 Apple Health metrics; select up to 6 on the largest widget. ([Preview](Screenshots/Health Export/widgets.png)) `Small` `Medium` `Large`
-- **[LatherApp Hand Wash Timer](https://apps.apple.com/us/app/latherapp-hand-wash-timer/id1509810285)** - View today's wash count and your last wash time, plus start your timer with one tap. ([Preview](Screenshots/LatherApp%20Hand%20Wash%20Timer/widgets.png)) `Free` `Small`
-- **[Milestone Fitness](https://apps.apple.com/us/app/milestone-fitness/id1327446581)** `$1.99`
-  - **Goal Progress** - See your current progress towards a goal in a given category and gives you a ribbon once you've made it. ([Preview](Screenshots/Milestone%20Fitness/widgets.png)) `Small`
-  - **Progress with Record** - See your current value alongside your all-time record. ([Preview](Screenshots/Milestone%20Fitness/widgets.png)) `Small`
   - **Activity** - Near real-time Activity progress, Total Energy Burn, Step Count and Heart Rate. ([Preview](Screenshots/Health_Export/widgets.png)) `Small`
   - **Recent** - Configurable widget that shows your readings for cumulative metrics or most recent reading for sample metrics. ([Preview](Screenshots/Health_Export/widgets.png)) `Small`
   - **Statistics** - Customize with any of over 80 Apple Health metrics; select up to 6 on the largest widget. ([Preview](Screenshots/Health_Export/widgets.png)) `Small` `Medium` `Large`
   - **Activity** - Near real-time Activity progress, Total Energy Burn, Step Count and Heart Rate. ([Preview](Screenshots/Health_Export/widgets.png)) `Small`
   - **Statistics** - Customize with any of over 80 Apple Health metrics; select up to 6 on the largest widget. ([Preview](Screenshots/Health_Export/widgets.png)) `Small` `Medium` `Large`
-- **[LatherApp Hand Wash Timer](https://apps.apple.com/us/app/latherapp-hand-wash-timer/id1509810285)** - View today's wash count and your last wash time, plus start your timer with one tap. ([Preview](Screenshots/LatherApp_Hand_Wash_Timer/widgets.png)) `Free` `Small`
+- **[LatherApp Hand Wash Timer](https://apps.apple.com/us/app/latherapp-hand-wash-timer/id1509810285)** - View today's wash count and your last wash time, plus start your timer with one tap. ([Preview](Screenshots/LatherApp_Hand_Wash_Timer/widget.png)) `Free` `Small`
 - **[Milestone Fitness](https://apps.apple.com/us/app/milestone-fitness/id1327446581)** `$1.99`
   - **Goal Progress** - See your current progress towards a goal in a given category and gives you a ribbon once you've made it. ([Preview](Screenshots/Milestone_Fitness/widgets.png)) `Small`
+  - **Triple Category** - View three categories at a glance. ([Preview](Screenshots/Milestone_Fitness/widgets.png)) `Small`
   - **Progress with Record** - See your current value alongside your all-time record. ([Preview](Screenshots/Milestone_Fitness/widgets.png)) `Small`
 - **[Pocket Yoga](https://apps.apple.com/us/app/pocket-yoga/id347400507?mt=8)** - See a yoga pose of the day. ([Preview](https://twitter.com/pocketyogaapp/status/1306397873634902016)) `$2.99` `Medium`
 - **[Tangerine: Self-care & Goals](https://apps.apple.com/us/app/tangerine-self-care-goals/id1468882685)** `Free w/ $4.99/mo subscription`
