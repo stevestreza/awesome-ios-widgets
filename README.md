@@ -74,6 +74,10 @@ You can include multiple copies of a single widget, at the same or different siz
 
 ## Finance
 
+- **[Copilot: The Smart Money App](https://apps.apple.com/app/apple-store/id1447330651)** `$69.99 yearly subscription for unlimited number accounts connected`
+  - **Recent Transactions** - See your transactions as they come in, automatically. ([Preview](https://twitter.com/copilotmoney/status/1306302710543679488)) `Medium` `Large`
+  - **Bank Accounts** - See your bank accounts' balances and how they've changed over time. ([Preview](https://twitter.com/copilotmoney/status/1306302710543679488)) `Small`
+  - **Spending Categories and Budgets** - See how you're doing in terms of your spending and budgets. ([Preview](https://twitter.com/copilotmoney/status/1306302710543679488)) `Small`
 - **[Spend Stack: Budget Tracker](https://apps.apple.com/app/spend-stack-smarter-lists/id1329068268)** `$2.99`
   - **Recurring Costs** - See what subscriptions are costing you this month, or what's due next. ([Preview](https://twitter.com/SpendStackApp/status/1306577430652616704)) `Small`
   - **Tag Insights** - See how much of your money goes to food, date nights or splurge spending. ([Preview](https://twitter.com/SpendStackApp/status/1306577430652616704)) `Small` `Medium` `Large`
